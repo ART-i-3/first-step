@@ -1,2 +1,2 @@
 # first-step
-testing day 1
+testing-day 1
